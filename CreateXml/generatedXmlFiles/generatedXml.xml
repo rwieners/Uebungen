@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<school>
+  <student id="1">
+    <firstname>ankush</firstname>
+    <lastname>thakur</lastname>
+    <email>beingjavaguy@gmail.com</email>
+    <phone>8788987656</phone>
+  </student>
+</school>
